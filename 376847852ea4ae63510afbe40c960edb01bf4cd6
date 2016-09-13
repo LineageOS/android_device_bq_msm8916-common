@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_351bdc81",
+        "filename": "bq_common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 7901
+      },
+      "writtenOn": "2016-09-13T12:06:22Z",
+      "side": 1,
+      "message": "We should copy from media_codecs_google_video_le.xml no?",
+      "range": {
+        "startLine": 126,
+        "startChar": 44,
+        "endLine": 126,
+        "endChar": 73
+      },
+      "revId": "376847852ea4ae63510afbe40c960edb01bf4cd6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
