@@ -202,7 +202,11 @@ PRODUCT_PACKAGES += \
     libqsap_sdk \
     libQWiFiSoftApCfg \
     wcnss_service
-    
+
+# Widevine
+PRODUCT_PACKAGES += \
+    libshim_wvm
+
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini
 
