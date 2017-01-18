@@ -185,6 +185,10 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
     ueventd.qcom.rc
 
+# Shims
+PRODUCT_PACKAGES += \
+    libshim_wvm
+
 # Wifi
 PRODUCT_PACKAGES += \
     hostapd_default.conf \
