@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "225133d4_714969f9",
+        "filename": "msm8916.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-12-27T14:36:11Z",
+      "side": 1,
+      "message": "\"Never remove old copyrights\". That applies to the year.",
+      "revId": "c5fc7d0918c3988e02039a72879763750126ce24",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
